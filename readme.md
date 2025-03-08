@@ -46,17 +46,5 @@ Visit `http://localhost:3000` to see the web UI.
 - [ ] GitHub auto-sync for tracking progress
 - [ ] Cloud sync & multi-device access
 
-## 📢 Contributing
-We welcome contributions! Open an issue or submit a pull request.
-
-## 📜 License
-This project is open-source under the **MIT License**.
-
-## 🔗 Stay Connected
-- **GitHub Issues:** Report bugs & suggest features
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- **Discord:** Join our community chat
-
----
 🚀 Track your LeetCode progress seamlessly with **VS Code & Web UI**!
 
